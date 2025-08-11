@@ -4,7 +4,11 @@
 <dict>
 	<key>BuildMachineOSBuild</key>
 	<string>25A5295e</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
 	<key>CFBundleDisplayName</key>
+	<string>Clipo</string>
+	<key>CFBundleExecutable</key>
 	<string>Clipo</string>
 	<key>CFBundleIconFile</key>
 	<string>AppIcon</string>
@@ -50,7 +54,5 @@
 	<true/>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
-	<key>NSSupportsAutomaticGraphicsSwitching</key>
-	<true/>
 </dict>
 </plist>

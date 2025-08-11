@@ -6,8 +6,6 @@
 	<string>25A5295e</string>
 	<key>CFBundleDisplayName</key>
 	<string>Clipo</string>
-	<key>CFBundleExecutable</key>
-	<string>Clipo</string>
 	<key>CFBundleIconFile</key>
 	<string>AppIcon</string>
 	<key>CFBundleIconName</key>

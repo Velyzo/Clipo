@@ -14,11 +14,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>721C05A54A715C98BA48213928462D67A2D4D5CD</string>
+				<string>BFEAE9490B7823E9E470EF3BBAA6022BEF04F460</string>
 				<key>dateExpires</key>
-				<string>01.02.27</string>
+				<string>28.06.26</string>
 				<key>type</key>
-				<string>Cloud Managed Developer ID Application</string>
+				<string>Apple Development</string>
 			</dict>
 			<key>entitlements</key>
 			<dict>

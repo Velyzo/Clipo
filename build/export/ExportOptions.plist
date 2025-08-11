@@ -5,7 +5,7 @@
 	<key>destination</key>
 	<string>export</string>
 	<key>method</key>
-	<string>developer-id</string>
+	<string>debugging</string>
 	<key>signingStyle</key>
 	<string>automatic</string>
 	<key>teamID</key>

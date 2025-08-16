@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/Velyzo/Clipo/blob/main/Clipo/Assets.xcassets/AppIcon.appiconset/icon_256x256.png?raw=true" alt="Clipo Logo" width="120" height="120">
   
-  **The Ultimate macOS Clipboard Manager**
+  **The best macOS Clipboard Manager**
   
   *Supercharge your productivity with unlimited clipboard history, favorites, and seamless menu bar access.*
 
